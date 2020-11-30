@@ -1,3 +1,2 @@
 # jsdelivr
-
-## cdn service for my sites
+# cdn service for my sites
